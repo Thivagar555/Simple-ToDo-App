@@ -1,15 +1,15 @@
 **Simple To-Do List Web App**
 
-This is a basic to-do list application built using HTML, CSS, and JavaScript.  
-It allows users to add, complete, and delete tasks. The data is stored using browser localStorage.
+I developed this basic to-do list application using HTML, CSS, and JavaScript.  
+It allows users to manage daily tasks — including adding, completing, and deleting them. The data is stored locally using the browser's localStorage API.
 
 ## Features
 
-- Add tasks  
+- Add new tasks  
 - Mark tasks as completed  
 - Delete tasks  
-- Stores data locally  
-- Responsive design
+- Store task data locally in browser  
+- Clean and responsive design
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ HTML, CSS, JavaScript, localStorage
 
 ## How to Run
 
-1. Clone the repository or download the ZIP  
+1. Clone this repository or download the ZIP  
 2. Open the folder  
 3. Double-click `index.html` to open it in a browser
 
@@ -27,7 +27,4 @@ HTML, CSS, JavaScript, localStorage
 
 ## What I Learned
 
-- Working with DOM elements  
-- Handling user input  
-- Using localStorage for saving data  
-- Structuring a small JavaScript project
+- DOM
