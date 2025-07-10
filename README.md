@@ -27,4 +27,6 @@ HTML, CSS, JavaScript, localStorage
 
 ## What I Learned
 
-- DOM
+This project helped me understand how to build a complete browser-based application using just frontend technologies.  
+I learned how to dynamically create and update elements using JavaScript and how to make data persist using the localStorage API.  
+It also taught me the importance of user experience, clean UI, and how small frontend projects are structured.
